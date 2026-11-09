@@ -8,3 +8,8 @@
 - SFX bawaan HyperFrames (Pixabay): pop, click-soft, whoosh, impact-bass-1, sparkle — 20 hits.
 - Audio: loudnorm 2-pass ke −15 LUFS; campuran akhir −15.0 LUFS, TP −1.0 dBTP.
 **Outstanding:** muzik latar (perlu HeyGen sign-in atau fail pengguna); kapsyen (pengguna "belum ada"); render final tunggu kelulusan.
+
+## Session 1b — 2026-11-09
+
+**Changes:** subtitle kata-per-kata (Poppins 700 putih + outline, kata aktif emas) di y=1235, dilewati saat kartu judul/akhir. Label dinaikkan ke ~860–1075 px. Base dibangun ulang: hqdn3d + eq (kontras/saturasi) + colorbalance lebih netral + unsharp, CRF 14 preset slow, zoom maks 1.10. GSAP disimpan lokal (assets/vendor).
+**Outstanding:** muzik latar; render final setelah disetujui (preview_v2_1080 sudah kualitas "looks" CRF16).

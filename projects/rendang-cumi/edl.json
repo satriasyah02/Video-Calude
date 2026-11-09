@@ -14,7 +14,7 @@
    "end": 138.8,
    "beat": "HOOK",
    "quote": "rendang cumi (tertawa)",
-   "zoom": 1.12
+   "zoom": 1.1
   },
   {
    "start": 0.55,
@@ -59,7 +59,7 @@
    "end": 23.5,
    "beat": "SETUP",
    "quote": "Apakah udah basi?",
-   "zoom": 1.15
+   "zoom": 1.1
   },
   {
    "start": 27.19,
@@ -195,7 +195,7 @@
    "end": 139.2,
    "beat": "RENDANG",
    "quote": "rendang cumi (tertawa)",
-   "zoom": 1.12
+   "zoom": 1.1
   },
   {
    "start": 139.2,
@@ -318,5 +318,6 @@
    "quote": "aku bakal posting di part dua.",
    "zoom": 1.08
   }
- ]
+ ],
+ "grade": "hqdn3d + eq contrast/sat + cool colorbalance + unsharp (see build_base.py)"
 }
