@@ -1,0 +1,12 @@
+.env
+*.env
+edit/
+renders/
+*.mp4
+*.mov
+*.webm
+*.m4a
+*.wav
+*.mp3
+node_modules/
+.venv/
