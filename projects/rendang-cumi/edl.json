@@ -1,0 +1,322 @@
+{
+ "version": 1,
+ "sources": {
+  "S": "/home/user/footage/source.mov"
+ },
+ "output": {
+  "w": 1080,
+  "h": 1920,
+  "fps": 30
+ },
+ "ranges": [
+  {
+   "start": 134.8,
+   "end": 138.8,
+   "beat": "HOOK",
+   "quote": "rendang cumi (tertawa)",
+   "zoom": 1.12
+  },
+  {
+   "start": 0.55,
+   "end": 1.36,
+   "beat": "SETUP",
+   "quote": "Halo guys!"
+  },
+  {
+   "start": 2.98,
+   "end": 6.24,
+   "beat": "SETUP",
+   "quote": "Hari ini aku kedatangan paket lagi dari mama.",
+   "zoom": 1.08
+  },
+  {
+   "start": 7.38,
+   "end": 8.32,
+   "beat": "SETUP",
+   "quote": "Katanya ada"
+  },
+  {
+   "start": 9.78,
+   "end": 10.44,
+   "beat": "SETUP",
+   "quote": "makanan."
+  },
+  {
+   "start": 11.93,
+   "end": 14.32,
+   "beat": "SETUP",
+   "quote": "Makanan mudah rusak, basi, atau bocor.",
+   "zoom": 1.08
+  },
+  {
+   "start": 15.19,
+   "end": 17.64,
+   "beat": "SETUP",
+   "quote": "Kebetulan ini udah dikirim dari Kamis lalu."
+  },
+  {
+   "start": 22.17,
+   "end": 23.5,
+   "beat": "SETUP",
+   "quote": "Apakah udah basi?",
+   "zoom": 1.15
+  },
+  {
+   "start": 27.19,
+   "end": 28.16,
+   "beat": "SETUP",
+   "quote": "Let's check it out!"
+  },
+  {
+   "start": 28.16,
+   "end": 58.6,
+   "beat": "UNBOX",
+   "quote": "(buka kotak, dipercepat)",
+   "speed": 6.0,
+   "mute": true
+  },
+  {
+   "start": 58.72,
+   "end": 60.12,
+   "beat": "ITEMS",
+   "quote": "Nih, asli dari Padang ya."
+  },
+  {
+   "start": 60.5,
+   "end": 60.88,
+   "beat": "ITEMS",
+   "quote": "Mamaku"
+  },
+  {
+   "start": 61.98,
+   "end": 64.08,
+   "beat": "ITEMS",
+   "quote": "pakai koran, koran dari Padang.",
+   "zoom": 1.08
+  },
+  {
+   "start": 65.36,
+   "end": 66.58,
+   "beat": "ITEMS",
+   "quote": "Padang Express.",
+   "zoom": 1.08
+  },
+  {
+   "start": 69.2,
+   "end": 71.48,
+   "beat": "ITEMS",
+   "quote": "Seperti biasa mamaku bawa ini"
+  },
+  {
+   "start": 72.86,
+   "end": 75.1,
+   "beat": "ITEMS",
+   "quote": "cemilan-cemilan dari Padang. Ini ada"
+  },
+  {
+   "start": 76.42,
+   "end": 77.58,
+   "beat": "ITEMS",
+   "quote": "peyek kacang.",
+   "zoom": 1.08
+  },
+  {
+   "start": 79.06,
+   "end": 81.38,
+   "beat": "ITEMS",
+   "quote": "Udah hancur pastinya di jalan."
+  },
+  {
+   "start": 82.2,
+   "end": 83.1,
+   "beat": "ITEMS",
+   "quote": "Ini namanya"
+  },
+  {
+   "start": 84.2,
+   "end": 85.26,
+   "beat": "ITEMS",
+   "quote": "dakak dakak.",
+   "zoom": 1.08
+  },
+  {
+   "start": 91.97,
+   "end": 93.94,
+   "beat": "ITEMS",
+   "quote": "Dakak dakaknya ada tiga,"
+  },
+  {
+   "start": 94.58,
+   "end": 97.5,
+   "beat": "ITEMS",
+   "quote": "empat, lima. Mamaku tahu aku suka ini.",
+   "zoom": 1.08
+  },
+  {
+   "start": 116.32,
+   "end": 117.92,
+   "beat": "RENDANG",
+   "quote": "Nih yang spesial"
+  },
+  {
+   "start": 118.46,
+   "end": 119.7,
+   "beat": "RENDANG",
+   "quote": "mamaku bawa rendang,",
+   "zoom": 1.08
+  },
+  {
+   "start": 123.5,
+   "end": 126.14,
+   "beat": "RENDANG",
+   "quote": "Kata mamaku di kampung itu lagi"
+  },
+  {
+   "start": 126.96,
+   "end": 128.32,
+   "beat": "RENDANG",
+   "quote": "susah banget nyari"
+  },
+  {
+   "start": 129.68,
+   "end": 131.06,
+   "beat": "RENDANG",
+   "quote": "daging sapi.",
+   "zoom": 1.08
+  },
+  {
+   "start": 132.12,
+   "end": 133.58,
+   "beat": "RENDANG",
+   "quote": "Jadi ma-mamaku bikin"
+  },
+  {
+   "start": 134.82,
+   "end": 139.2,
+   "beat": "RENDANG",
+   "quote": "rendang cumi (tertawa)",
+   "zoom": 1.12
+  },
+  {
+   "start": 139.2,
+   "end": 141.58,
+   "beat": "RENDANG",
+   "quote": "Aku belum pernah nyobain rendang cumi,"
+  },
+  {
+   "start": 151.96,
+   "end": 153.4,
+   "beat": "RENDANG",
+   "quote": "mau nggak mau harus nyoba karena",
+   "zoom": 1.08
+  },
+  {
+   "start": 154.17,
+   "end": 156.26,
+   "beat": "RENDANG",
+   "quote": "daging lagi nggak ada di kampung."
+  },
+  {
+   "start": 158.2,
+   "end": 160.86,
+   "beat": "RENDANG",
+   "quote": "ini kita panasin dulu nanti bakal kita",
+   "zoom": 1.08
+  },
+  {
+   "start": 161.66,
+   "end": 162.32,
+   "beat": "RENDANG",
+   "quote": "coba ya."
+  },
+  {
+   "start": 163.06,
+   "end": 164.45,
+   "beat": "UMROH",
+   "quote": "Kebetulan lagi mamaku"
+  },
+  {
+   "start": 167.58,
+   "end": 168.6,
+   "beat": "UMROH",
+   "quote": "baru pulang dari"
+  },
+  {
+   "start": 170.5,
+   "end": 171.24,
+   "beat": "UMROH",
+   "quote": "umroh.",
+   "zoom": 1.08
+  },
+  {
+   "start": 171.5,
+   "end": 172.82,
+   "beat": "UMROH",
+   "quote": "Ini aku dibawain juga nih"
+  },
+  {
+   "start": 174.92,
+   "end": 175.84,
+   "beat": "UMROH",
+   "quote": "air zamzam.",
+   "zoom": 1.08
+  },
+  {
+   "start": 179.12,
+   "end": 180.66,
+   "beat": "UMROH",
+   "quote": "Nah ini beberapa"
+  },
+  {
+   "start": 182.8,
+   "end": 183.72,
+   "beat": "UMROH",
+   "quote": "hadiah juga."
+  },
+  {
+   "start": 186.98,
+   "end": 187.8,
+   "beat": "UMROH",
+   "quote": "Ada kurma",
+   "zoom": 1.08
+  },
+  {
+   "start": 188.5,
+   "end": 189.36,
+   "beat": "UMROH",
+   "quote": "udah gepeng,"
+  },
+  {
+   "start": 190.5,
+   "end": 191.88,
+   "beat": "UMROH",
+   "quote": "coklat-coklat.",
+   "zoom": 1.08
+  },
+  {
+   "start": 208.06,
+   "end": 209.7,
+   "beat": "CTA",
+   "quote": "Aku bakal posting ini dulu"
+  },
+  {
+   "start": 213.72,
+   "end": 214.84,
+   "beat": "CTA",
+   "quote": "untuk rendang"
+  },
+  {
+   "start": 215.2,
+   "end": 215.92,
+   "beat": "CTA",
+   "quote": "cuminya"
+  },
+  {
+   "start": 216.72,
+   "end": 220.2,
+   "beat": "CTA",
+   "quote": "aku bakal posting di part dua.",
+   "zoom": 1.08
+  }
+ ]
+}
